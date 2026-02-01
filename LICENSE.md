@@ -14,4 +14,4 @@ these rules apply to all versions.
 3a. i am NOT responsible for some forks + any type of mods of my code having malware.
 5. do NOT reuse ANY chunk of my code to replicate or just mimic how my game works without credit.
 6. you are NOT allowed to sell forks for money. only free. however, mods of the game that are addons, you are free to price those however you want. Microtransactions are not allowed.
-7. Binary redistribution of my game, is not allowed. At all.
+7. Binary redistribution of my game (the game itself, forks are good) outside of any sources i trust to redistribute & binary redistribute my game, is not allowed. At all.
