@@ -1,3 +1,4 @@
 go to the releases tab for the code
 the windows smartscreen guy will block the installer exe from running since im broke and i am not getting it to have the official publisher thing on it
-since it's an installer, it installs files, which is considered modifying your system, so after you skip the windows guy, UAC will step in and tell you: "this guy gonna change sum shit to your device and idk what it can do and idc enough to see what it does". the installer is safe tho
+since it's an installer, it installs files, which is considered modifying your system, so after you skip the windows guy, UAC will step in and tell you: "r u sure about this?". the installer is safe tho
+this project is open source because it is pre-release (pre-1.0.0)
