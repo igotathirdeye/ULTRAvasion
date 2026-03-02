@@ -1,2 +1,2 @@
-look at hey.leet. just. do it.
+look at the releases tab
 ==============================
