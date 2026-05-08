@@ -4,10 +4,10 @@
 
 these are the supported versions.
 
-|    Version    |      Supported     |
-| ------------- | ------------------ |
-| Current       | :white_check_mark: |
-| Anything else | :x:                |
+| Version | Supported |
+| ------------------------------------- | ------------------ |
+| Current (including non-stable builds) | :white_check_mark: |
+| Anything else                         | :x:                |
 
 ## Reporting a Vulnerability
 
