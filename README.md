@@ -3,4 +3,4 @@
 ![Static Badge](https://img.shields.io/badge/latest_version-0.4.0-red)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-An FPS game primarily written in C. 
+An FPS/RPG game written in C. 
