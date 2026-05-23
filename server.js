@@ -1,9 +1,14 @@
 const WebSocket = require('ws');
+
+const PORT = process.env.PORT || 8080;
+
 const wss = new WebSocket.Server({
     host: "0.0.0.0",
-    port: 8080
+    port: PORT
 });
-console.log("Server started on port 8080");
+
+console.log("Server started on port", PORT);
+
 const https = require("https");
 
 function getPublicIP(cb) {
