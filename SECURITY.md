@@ -10,5 +10,4 @@ these are the supported versions.
 | Anything else                         | :x:                |
 
 ## Reporting a Vulnerability
-
-go to the issues page and mark the end of your title with "(Security Vulnerability)" (no the parentheses aren't a placeholder for you to put something there.).
+[click here](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/privately-reporting-a-security-vulnerability)
