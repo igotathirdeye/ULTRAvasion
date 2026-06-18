@@ -3,4 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/latest_version-0.4.4-red)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-An FPS/RPG game written in C. 
+An FPS/RPG game written in C.
+
+Also available on [itch.io](https://igotathirdeye.itch.io/ultravasion).
