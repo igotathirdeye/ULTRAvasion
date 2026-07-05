@@ -6,3 +6,12 @@
 A free, open-source FPS/RPG game written in C.
 
 Also available on [itch.io](https://igotathirdeye.itch.io/ultravasion).
+
+## Credits & Third-Party Licenses
+
+This game is licensed under the GPL-3.0 License. It bundles and relies on the following third-party libraries:
+
+* **SDL2** - Licensed under the [Zlib License](https://zlib.net).
+* **Open Dynamics Engine (ODE)** - Licensed under the [BSD 3-Clause License](https://opensource.org/license/bsd-3-clause).
+* **tinyfiledialogs** - Licensed under the [Zlib License](https://zlib.net).
+* **MinGW-w64 Runtimes** - Licensed under a mix of Zope, BSD, and public domain, subject to the GCC Runtime Library Exception.
