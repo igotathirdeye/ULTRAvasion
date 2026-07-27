@@ -11,8 +11,8 @@ Also available on [itch.io](https://igotathirdeye.itch.io/ultravasion).
 
 This game is licensed under the GPL-3.0 License. It bundles and relies on the following third-party libraries:
 
-* **SDL2** - Licensed under the [Zlib License](https://zlib.net).
+* **SDL2, SDL_image, SDL_mixer, and SDL_ttf** - Licensed under the [Zlib License](https://zlib.net).
 * **Open Dynamics Engine (ODE)** - Licensed under the [BSD 3-Clause License](https://opensource.org/license/bsd-3-clause).
 * **tinyfiledialogs** - Licensed under the [Zlib License](https://zlib.net).
 * **MSYS2's static libraries (static version of libwebsockets, ssl, and crypto)** - libwebsockets is under the [MIT License](https://opensource.org/license/MIT), OpenSSL is under the [Apache 2.0 License](https://opensource.org/license/apache-2.0). libcrypto is included in OpenSSL.
-* **tcc (Tiny C Compiler)** - Licensed under the GNU Lesser General Public License (version not specified [here](https://www.bellard.org/tcc)).
+* **tcc (Tiny C Compiler)** - Licensed under the GNU Lesser General Public License (version not specified [here](https://www.bellard.org/tcc), however I will assume it is LGPL-2.1).
