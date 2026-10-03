@@ -1,6 +1,6 @@
 # ULTRAvasion
-![Static Badge](https://img.shields.io/badge/latest_stable_version-0.4.8-green)
-![Static Badge](https://img.shields.io/badge/latest_version-0.4.8-red)
+![Static Badge](https://img.shields.io/badge/latest_stable_version-0.4.9-green)
+![Static Badge](https://img.shields.io/badge/latest_version-0.4.9-red)
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 A free, open-source FPS/RPG game written in C.
